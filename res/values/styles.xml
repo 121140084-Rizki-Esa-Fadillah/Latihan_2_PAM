@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonYes" parent="Widget.AppCompat.Button">
+        <item name="android:background">
+            @drawable/custom_button_yes
+        </item>
+        <item name="android:textColor">
+            @color/white
+        </item>
+    </style>
+    <style name="ButtonNo" parent="Widget.AppCompat.Button">
+        <item name="android:background">
+            @drawable/custom_button_no
+        </item>
+        <item name="android:textColor">
+            @color/white
+        </item>
+    </style>
+</resources>
